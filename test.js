@@ -1,1 +1,1 @@
-console.log("aku rindu kamu");
+console.log("kamu dimana sayang?");
