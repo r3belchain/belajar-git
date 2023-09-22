@@ -1,1 +1,1 @@
-console.log("ini file test");
+console.log("aku rindu kamu");
