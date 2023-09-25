@@ -9,5 +9,3 @@ console.log(multiplyNumber(2, 2));
 
 const halo = (a, b) => a / b;
 console.log(halo(10, 2));
-const multiply = (a, b) => a * b;
-console.log(multiply(2, 2));
