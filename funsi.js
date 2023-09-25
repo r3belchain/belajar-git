@@ -12,3 +12,6 @@ console.log(halo(10, 2));
 
 const dadah = (a, b) => a * b;
 console.log(dadah(5, 2));
+
+const puisi = (a, b) => a + b;
+console.log(puisi(10, 5));
