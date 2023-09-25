@@ -10,8 +10,5 @@ console.log(multiplyNumber(2, 2));
 const halo = (a, b) => a / b;
 console.log(halo(10, 2));
 
-const dadah = (a, b) => a * b;
-console.log(dadah(5, 2));
-
-const puisi = (a, b) => a + b;
-console.log(puisi(10, 5));
+const multiply = (a, b) => a * b;
+console.log(multiply(2, 2));
