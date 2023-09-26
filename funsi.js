@@ -12,3 +12,5 @@ console.log(halo(10, 2));
 
 const multiply = (a, b) => a * b;
 console.log(multiply(2, 2));
+
+console.log(add(5, 5))
